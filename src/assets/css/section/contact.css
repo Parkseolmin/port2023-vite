@@ -5,6 +5,7 @@
   width: 100%;
   height: 100%;
   padding: 16px;
+  display: flex;
   align-items: flex-start;
   justify-content: flex-end;
   flex-direction: column;
@@ -27,7 +28,6 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  position: relative;
 }
 .contact__text .text {
   font-size: 3vw;
@@ -44,6 +44,10 @@
 
 .contact__text .text div {
   margin: 0.5rem 0;
+}
+
+.contact__lines {
+  width: 100%;
 }
 
 .contact__lines .line {
@@ -109,5 +113,9 @@
   .contact__text .text {
     font-size: 1.8rem;
     padding: 0 16px;
+  }
+
+  .contact__inner {
+    justify-content: center;
   }
 }
