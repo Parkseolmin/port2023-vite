@@ -36,31 +36,31 @@
   padding-left: 5rem;
 }
 .site__item.s1 {
-  background-color: var(--subBg100);
+  background-color: var(--portBg-color01);
   top: 170px;
 }
 .site__item.s2 {
-  background-color: var(--subBg200);
+  background-color: var(--portBg-color02);
   top: 180px;
 }
 .site__item.s3 {
-  background-color: var(--subBg300);
+  background-color: var(--portBg-color03);
   top: 190px;
 }
 .site__item.s4 {
-  background-color: var(--subBg400);
+  background-color: var(--portBg-color04);
   top: 200px;
 }
 .site__item.s5 {
-  background-color: var(--subBg500);
+  background-color: var(--portBg-color05);
   top: 210px;
 }
 .site__item.s6 {
-  background-color: var(--subBg600);
+  background-color: var(--portBg-color06);
   top: 220px;
 }
 .site__item.s7 {
-  background-color: var(--subBg700);
+  background-color: var(--portBg-color07);
   top: 230px;
 }
 .site__item .num {

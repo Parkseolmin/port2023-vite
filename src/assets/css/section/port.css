@@ -44,34 +44,34 @@
 }
 
 .port__item.p1 {
-  background-color: var(--subBg100);
+  background-color: var(--portBg-color01);
 }
 .port__item.p2 {
-  background-color: var(--subBg200);
+  background-color: var(--portBg-color01);
 }
 .port__item.p3 {
-  background-color: var(--subBg300);
+  background-color: var(--portBg-color01);
 }
 .port__item.p4 {
-  background-color: var(--subBg400);
+  background-color: var(--portBg-color01);
 }
 .port__item.p5 {
-  background-color: var(--subBg500);
+  background-color: var(--portBg-color01);
 }
 .port__item.p6 {
-  background-color: var(--subBg600);
+  background-color: var(--portBg-color01);
 }
 .port__item.p7 {
-  background-color: var(--subBg700);
+  background-color: var(--portBg-color01);
 }
 .port__item.p8 {
-  background-color: var(--subBg100);
+  background-color: var(--portBg-color01);
 }
 .port__item.p9 {
-  background-color: var(--subBg200);
+  background-color: var(--portBg-color01);
 }
 .port__item.p10 {
-  background-color: var(--subBg300);
+  background-color: var(--portBg-color01);
 }
 
 .port__item .num {
